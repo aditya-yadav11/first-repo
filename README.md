@@ -1,4 +1,4 @@
 # first-repo
 just to test  or learn
 <br>
-sosuke aizen
+sosuke aizen character from bleach
